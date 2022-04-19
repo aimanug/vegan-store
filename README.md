@@ -1,1 +1,1 @@
-# vegan-store
+# Vegan Store
